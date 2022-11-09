@@ -1,0 +1,16 @@
+=> admin button remove_________________________done
+
+=>userlocation should be visible in search option________________________done
+
+=> Add Like Button like instagram__________________________done
+
+=> In register signUp form  show only alphabetical characters inside fullname row ______________________Done
+
+=>in fav restaurants we want want to show menu (view) button for cuisines___________________Done
+
+=>adding restaurantId  exception ___________________________Done
+
+=> add quantity in cuisines form _________________________________Done
+
+
+
